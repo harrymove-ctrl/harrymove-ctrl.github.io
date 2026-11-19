@@ -1,20 +1,22 @@
 export const HARRI_PORTRAIT_SVG = `
 <svg viewBox="0 0 438 632" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
-  <!-- Subtle golden-blonde streaks on the Ivy top -->
-  <path d="M168 116C186 88 214 78 240 84C226 98 204 110 176 124Z" fill="var(--hair-gold)"/>
-  <path d="M198 136C224 104 260 90 292 96C282 114 254 126 216 142Z" fill="var(--hair-gold)"/>
-  <path d="M250 144C272 126 296 124 314 136C296 144 274 148 254 150Z" fill="var(--hair-gold)"/>
-  <!-- Tapered feathered mullet nape layers (behind ears & neck) -->
-  <path d="M144 348C140 384 132 420 124 446C140 442 154 430 162 412" stroke="var(--ink)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M164 394C162 418 158 438 154 452C168 448 178 436 184 418" stroke="var(--ink)" stroke-width="5.8" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M316 348C320 384 328 418 338 444C320 442 304 428 296 410" stroke="var(--ink)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M296 394C298 418 302 438 308 452C294 448 284 436 278 418" stroke="var(--ink)" stroke-width="5.8" stroke-linecap="round" stroke-linejoin="round"/>
-  <!-- Ivy League close-tapered sides, lifted crown tufts & side-swept short fringe -->
-  <path d="M128 240C126 198 128 160 136 134C146 98 176 74 214 70L226 84C244 66 276 70 296 86L300 100C316 96 326 112 324 134C332 160 334 198 330 242" stroke="var(--ink)" stroke-width="6.4" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M128 192C142 164 158 144 178 144L188 166C206 142 232 138 250 156L256 142C278 142 304 156 328 192" stroke="var(--ink)" stroke-width="6.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Natural sunlit blonde top highlight inside 7/3 Ivy crown -->
+  <path d="M168 148C176 122 204 106 242 106C270 106 290 116 296 132C278 130 256 134 236 142C216 149 196 150 176 150C170 150 166 149 168 148Z" fill="var(--hair-gold)"/>
+  <!-- Close-hugged feathered Ivy Mullet nape behind jaw/neck -->
+  <path d="M162 378C160 404 152 426 140 442C156 444 170 434 178 418" stroke="var(--ink)" stroke-width="5.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M176 416C174 432 168 444 162 452" stroke="var(--ink)" stroke-width="5.2" stroke-linecap="round"/>
+  <path d="M298 378C300 404 308 426 320 442C304 444 290 434 282 418" stroke="var(--ink)" stroke-width="5.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M284 416C286 432 292 444 298 452" stroke="var(--ink)" stroke-width="5.2" stroke-linecap="round"/>
+  <!-- Anatomically proportioned short Ivy League crown, tight tapered sides & 7/3 swept fringe -->
+  <path d="M128 242C126 206 128 176 138 150C148 124 174 106 210 102C242 98 274 104 296 120L302 128C316 126 326 142 328 166C332 190 332 216 330 244" stroke="var(--ink)" stroke-width="6.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M130 200C142 178 154 164 168 162L178 176C192 158 212 152 232 166L242 154C266 152 294 162 318 184L328 200" stroke="var(--ink)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M180 134C206 118 240 116 270 128" stroke="var(--ink)" stroke-width="4.6" stroke-linecap="round"/>
+  <path d="M214 146C240 136 268 138 292 148" stroke="var(--ink)" stroke-width="4.4" stroke-linecap="round"/>
   <path d="M128 242C102 246 96 292 118 310C125 316 132 316 138 312" stroke="var(--ink)" stroke-width="6.4" stroke-linecap="round"/>
   <path d="M332 244C358 248 362 294 340 310C333 315 326 314 320 310" stroke="var(--ink)" stroke-width="6.4" stroke-linecap="round"/>
   <path d="M132 252C132 344 166 410 229 412C292 414 328 344 330 248" stroke="var(--ink)" stroke-width="6.4" stroke-linecap="round"/>
+  <path d="M158 217C172 211 192 211 206 216" stroke="var(--ink)" stroke-width="4.8" stroke-linecap="round"/>
+  <path d="M250 216C264 211 284 211 298 217" stroke="var(--ink)" stroke-width="4.8" stroke-linecap="round"/>
   <rect x="150" y="232" width="64" height="46" rx="16" stroke="var(--ink)" stroke-width="5.8"/>
   <rect x="242" y="232" width="64" height="46" rx="16" stroke="var(--ink)" stroke-width="5.8"/>
   <path d="M214 252C222 248 234 248 242 252" stroke="var(--ink)" stroke-width="5.8" stroke-linecap="round"/>
