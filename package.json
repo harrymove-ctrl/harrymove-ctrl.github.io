@@ -1,0 +1,19 @@
+{
+  "name": "harrymove-ctrl.github.io",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource/bricolage-grotesque": "^5.2.8",
+    "@fontsource/plus-jakarta-sans": "^5.2.8"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  }
+}

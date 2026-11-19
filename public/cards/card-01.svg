@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" fill="none">
+  <rect width="800" height="1000" fill="#fff6ea"/>
+  <rect x="32" y="32" width="736" height="936" rx="20" stroke="#0033e6" stroke-width="5"/>
+  <circle cx="400" cy="430" r="240" fill="#ffeed8" stroke="#0033e6" stroke-width="6"/>
+  <path d="M210 430C240 270 560 270 590 430" stroke="#0033e6" stroke-width="6" stroke-linecap="round"/>
+  <path d="M310 275C340 345 360 405 350 475" stroke="#0033e6" stroke-width="5" stroke-linecap="round"/>
+  <path d="M445 268C430 345 435 425 460 490" stroke="#0033e6" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="330" cy="445" r="14" fill="#c8b5ff" stroke="#0033e6" stroke-width="4"/>
+  <circle cx="475" cy="430" r="18" fill="#c8b5ff" stroke="#0033e6" stroke-width="4"/>
+  <circle cx="395" cy="515" r="12" fill="#c8b5ff" stroke="#0033e6" stroke-width="4"/>
+  <circle cx="290" cy="520" r="9" fill="#0033e6"/>
+  <circle cx="510" cy="510" r="10" fill="#0033e6"/>
+  <text x="68" y="810" font-family="ui-sans-serif, system-ui, sans-serif" font-size="44" font-weight="800" fill="#0033e6">BAKE LOG #042</text>
+  <text x="68" y="868" font-family="ui-monospace, monospace" font-size="28" fill="#0033e6">78% HYDRATION · 14H COLD PROOF</text>
+  <rect x="68" y="900" width="240" height="34" rx="17" fill="#c8b5ff"/>
+  <text x="88" y="924" font-family="ui-monospace, monospace" font-size="18" font-weight="700" fill="#0033e6">OPEN CRUMB / COARSE</text>
+</svg>

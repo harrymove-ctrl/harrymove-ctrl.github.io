@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" fill="none">
+  <rect width="800" height="1000" fill="#0033e6"/>
+  <rect x="36" y="36" width="728" height="928" rx="20" stroke="#fff6ea" stroke-width="5"/>
+  <rect x="96" y="110" width="608" height="580" rx="16" fill="#fff6ea"/>
+  <line x1="160" y1="210" x2="640" y2="210" stroke="#0033e6" stroke-width="4"/>
+  <line x1="160" y1="285" x2="640" y2="285" stroke="#0033e6" stroke-width="4"/>
+  <line x1="160" y1="360" x2="540" y2="360" stroke="#0033e6" stroke-width="4"/>
+  <line x1="160" y1="435" x2="610" y2="435" stroke="#0033e6" stroke-width="4"/>
+  <path d="M165 555C230 500 320 500 385 555C450 610 550 610 625 550" stroke="#0033e6" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="570" cy="195" r="46" fill="#c8b5ff" stroke="#0033e6" stroke-width="5"/>
+  <text x="96" y="790" font-family="ui-sans-serif, system-ui, sans-serif" font-size="42" font-weight="800" fill="#fff6ea">FIELD NOTES</text>
+  <text x="96" y="846" font-family="ui-monospace, monospace" font-size="25" fill="#c8b5ff">WRITE CODE · SCORE DOUGH · SHIP</text>
+  <text x="96" y="902" font-family="ui-monospace, monospace" font-size="22" fill="#fff6ea">SAIGON · 24.5C AMBIENT FERMENT</text>
+</svg>
