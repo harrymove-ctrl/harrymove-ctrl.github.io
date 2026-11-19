@@ -1,8 +1,17 @@
 export const HARRI_PORTRAIT_SVG = `
 <svg viewBox="0 0 438 632" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
-  <path d="M122 250C118 164 156 96 226 92C298 88 342 146 336 244" stroke="var(--ink)" stroke-width="6.4" stroke-linecap="round"/>
-  <path d="M116 205C138 158 186 142 238 148C280 153 318 172 338 206" stroke="var(--ink)" stroke-width="6.4" stroke-linecap="round"/>
-  <path d="M158 112C176 84 214 70 250 78C280 84 304 102 316 126" stroke="var(--ink)" stroke-width="6.4" stroke-linecap="round"/>
+  <!-- Subtle golden-blonde streaks on the Ivy top -->
+  <path d="M168 116C186 88 214 78 240 84C226 98 204 110 176 124Z" fill="var(--hair-gold)"/>
+  <path d="M198 136C224 104 260 90 292 96C282 114 254 126 216 142Z" fill="var(--hair-gold)"/>
+  <path d="M250 144C272 126 296 124 314 136C296 144 274 148 254 150Z" fill="var(--hair-gold)"/>
+  <!-- Tapered feathered mullet nape layers (behind ears & neck) -->
+  <path d="M144 348C140 384 132 420 124 446C140 442 154 430 162 412" stroke="var(--ink)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M164 394C162 418 158 438 154 452C168 448 178 436 184 418" stroke="var(--ink)" stroke-width="5.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M316 348C320 384 328 418 338 444C320 442 304 428 296 410" stroke="var(--ink)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M296 394C298 418 302 438 308 452C294 448 284 436 278 418" stroke="var(--ink)" stroke-width="5.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Ivy League close-tapered sides, lifted crown tufts & side-swept short fringe -->
+  <path d="M128 240C126 198 128 160 136 134C146 98 176 74 214 70L226 84C244 66 276 70 296 86L300 100C316 96 326 112 324 134C332 160 334 198 330 242" stroke="var(--ink)" stroke-width="6.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M128 192C142 164 158 144 178 144L188 166C206 142 232 138 250 156L256 142C278 142 304 156 328 192" stroke="var(--ink)" stroke-width="6.2" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M128 242C102 246 96 292 118 310C125 316 132 316 138 312" stroke="var(--ink)" stroke-width="6.4" stroke-linecap="round"/>
   <path d="M332 244C358 248 362 294 340 310C333 315 326 314 320 310" stroke="var(--ink)" stroke-width="6.4" stroke-linecap="round"/>
   <path d="M132 252C132 344 166 410 229 412C292 414 328 344 330 248" stroke="var(--ink)" stroke-width="6.4" stroke-linecap="round"/>

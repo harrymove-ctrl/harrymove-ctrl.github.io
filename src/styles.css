@@ -23,6 +23,7 @@
   --scrim: #fff6eae6;
   --print-edge: var(--cobalt);
   --rule: #0033e633;
+  --hair-gold: #f5c94c;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -38,6 +39,7 @@
     --scrim: #181b23eb;
     --print-edge: var(--cream-2);
     --rule: #ffeed829;
+    --hair-gold: #e8ba45;
   }
 }
 
@@ -53,6 +55,7 @@
   --scrim: #181b23eb;
   --print-edge: var(--cream-2);
   --rule: #ffeed829;
+  --hair-gold: #e8ba45;
 }
 
 *,
