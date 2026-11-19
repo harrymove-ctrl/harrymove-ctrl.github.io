@@ -2,18 +2,18 @@
   <rect width="1000" height="760" fill="#ffeed8"/>
   <rect x="36" y="36" width="928" height="688" rx="20" stroke="#0033e6" stroke-width="5"/>
   <rect x="92" y="130" width="230" height="140" rx="18" fill="#fff6ea" stroke="#0033e6" stroke-width="5"/>
-  <text x="128" y="210" font-family="ui-monospace, monospace" font-size="28" font-weight="700" fill="#0033e6">telegram</text>
+  <text x="207" y="210" text-anchor="middle" font-family="ui-monospace, monospace" font-size="28" font-weight="700" fill="#0033e6">agy-tele</text>
   <path d="M322 200H422" stroke="#0033e6" stroke-width="5" stroke-linecap="round"/>
   <path d="M402 182L424 200L402 218" stroke="#0033e6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
   <rect x="434" y="130" width="230" height="140" rx="18" fill="#c8b5ff" stroke="#0033e6" stroke-width="5"/>
-  <text x="470" y="210" font-family="ui-monospace, monospace" font-size="28" font-weight="700" fill="#0033e6">incur</text>
+  <text x="549" y="210" text-anchor="middle" font-family="ui-monospace, monospace" font-size="28" font-weight="700" fill="#0033e6">FTS5</text>
   <path d="M664 200H764" stroke="#0033e6" stroke-width="5" stroke-linecap="round"/>
   <path d="M744 182L766 200L744 218" stroke="#0033e6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
   <rect x="776" y="130" width="132" height="140" rx="18" fill="#0033e6"/>
-  <text x="802" y="210" font-family="ui-monospace, monospace" font-size="26" font-weight="700" fill="#fff6ea">SQLite</text>
+  <text x="842" y="210" text-anchor="middle" font-family="ui-monospace, monospace" font-size="26" font-weight="700" fill="#fff6ea">radar</text>
   <rect x="92" y="330" width="816" height="175" rx="18" fill="#fff6ea" stroke="#0033e6" stroke-width="5"/>
-  <text x="126" y="395" font-family="ui-monospace, monospace" font-size="26" fill="#0033e6">$ telegram auth --read-only</text>
-  <text x="126" y="452" font-family="ui-monospace, monospace" font-size="26" fill="#0033e6">$ telegram digest --unread-only --limit 10</text>
-  <text x="92" y="592" font-family="ui-sans-serif, system-ui, sans-serif" font-size="40" font-weight="800" fill="#0033e6">TELEGRAM CLI FOR AGENTS</text>
-  <text x="92" y="646" font-family="ui-monospace, monospace" font-size="24" fill="#0033e6">READ · SEARCH · DIGEST · CLOUD DRAFT</text>
+  <text x="126" y="395" font-family="ui-monospace, monospace" font-size="24" fill="#0033e6">$ agy-tele sync --daemon</text>
+  <text x="126" y="452" font-family="ui-monospace, monospace" font-size="24" fill="#0033e6">$ discord-radar search "signal" --fts</text>
+  <text x="92" y="592" font-family="ui-sans-serif, system-ui, sans-serif" font-size="40" font-weight="800" fill="#0033e6">LOCAL AGENT DAEMONS</text>
+  <text x="92" y="646" font-family="ui-monospace, monospace" font-size="24" fill="#0033e6">AGY TELE · DISCORD RADAR · SQLITE FTS5</text>
 </svg>

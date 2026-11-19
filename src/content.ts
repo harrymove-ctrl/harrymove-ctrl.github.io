@@ -40,46 +40,46 @@ export const PROFILE = {
 
 export const PROJECTS: ProjectItem[] = [
   {
-    name: 'Telegram CLI',
-    description:
-      'A small CLI that lets AI agents use a personal Telegram account.',
-    url: 'https://github.com/harrymove-ctrl/telegram-cli',
-  },
-  {
-    name: 'Raea',
-    description:
-      'Render Anything Engine: videos, motion graphics, 3D, and games on your own GPU.',
-    url: 'https://github.com/harrymove-ctrl/raea',
-  },
-  {
-    name: 'Ghostex',
-    description:
-      'Native Rust and GPUI workspace built for 20+ coding agents and Ghostty.',
-    url: 'https://github.com/harrymove-ctrl/Ghostex',
-  },
-  {
     name: 'AGY Profiles',
     description:
-      'Clean-room multi-profile sandbox manager and MCP server for Antigravity.',
+      'Clean-room multi-profile sandbox manager, stdio MCP server, and local console for Antigravity.',
     url: 'https://github.com/harrymove-ctrl/agy-profiles',
   },
   {
-    name: 'Discord Radar',
+    name: 'AI DevKit',
     description:
-      'Local Discord channel archiver, SQLite FTS5 search CLI, and signal extractor.',
-    url: 'https://github.com/harrymove-ctrl/discord-radar',
+      'Documentation and engineering workflow kit supporting coding agents at CommandOSS.',
+    url: 'https://github.com/CommandOSSLabs/ai-devkit',
   },
   {
     name: 'AGY Tele',
     description:
-      'Two-way Telegram and Antigravity Desktop sync daemon with local SQLite search.',
+      'Two-way Telegram and Antigravity Desktop sync daemon built on local SQLite FTS5.',
     url: 'https://github.com/harrymove-ctrl/agy-tele',
   },
   {
-    name: 'Condomdom',
+    name: 'Discord Radar',
     description:
-      'Personal ASCII-drawn library of UI components, videos, and agent skills.',
-    url: 'https://github.com/harrymove-ctrl/condomdom',
+      'Local Discord channel archiver, SQLite FTS5 search CLI, and topic signal extractor.',
+    url: 'https://github.com/harrymove-ctrl/discord-radar',
+  },
+  {
+    name: 'MacroGate',
+    description:
+      'Multimodal FX and Gold volatility-regime and pre-trade risk-veto copilot on TimeF.',
+    url: 'https://github.com/harrymove-ctrl/macrogate',
+  },
+  {
+    name: 'WhatNext',
+    description:
+      'Memory-grounded prompt prediction, live draft autocomplete, and workflow learning for agents.',
+    url: 'https://github.com/harrymove-ctrl/whatnext',
+  },
+  {
+    name: 'Sui CLI Web',
+    description:
+      'Keyboard-first web interface for the Sui CLI built at CommandOSS.',
+    url: 'https://github.com/harrymove-ctrl/sui-cli-web',
   },
 ]
 
@@ -132,8 +132,8 @@ export const PHOTO_CARDS: PhotoCard[] = [
   },
   {
     src: '/cards/card-02.svg',
-    caption: 'Raea Studio + GPUI: Native Rust video workbench at CommandOSS',
-    alt: 'Blueprint print showing Raea Studio GPUI workbench and cargo check badge',
+    caption: 'AGY Profiles: Multi-profile sandbox manager and MCP server',
+    alt: 'Blueprint print showing AGY Profiles sandbox manager and 17 stdio MCP tools',
     ar: '1000 / 760',
     rot: 2.6,
   },
@@ -146,8 +146,8 @@ export const PHOTO_CARDS: PhotoCard[] = [
   },
   {
     src: '/cards/card-04.svg',
-    caption: 'Telegram CLI: Reading, searching, and drafting for AI agents',
-    alt: 'Diagram card showing Telegram CLI, incur, and SQLite command flow',
+    caption: 'AGY Tele + Discord Radar: Local SQLite FTS5 agent sync and signal indexing',
+    alt: 'Diagram card showing AGY Tele, Discord Radar, and SQLite FTS5 sync flow',
     ar: '1000 / 760',
     rot: 3.4,
   },
@@ -160,8 +160,8 @@ export const PHOTO_CARDS: PhotoCard[] = [
   },
   {
     src: '/cards/card-06.svg',
-    caption: 'CommandOSS Labs: Rust, TypeScript, and local-first tools',
-    alt: 'Bento grid print highlighting ZRoute, Ghostex, MemWal, and CommandOSS Labs',
+    caption: 'CommandOSS Labs: Local-first tools, AI DevKit, and agent infrastructure',
+    alt: 'Bento grid print highlighting ZRoute, AI DevKit, MemWal, and CommandOSS Labs',
     ar: '1000 / 760',
     rot: 1.9,
   },

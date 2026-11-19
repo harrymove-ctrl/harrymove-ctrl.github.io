@@ -9,7 +9,7 @@
     <rect x="656" y="308" width="240" height="190" rx="14" fill="#ffeed8"/>
   </g>
   <text x="132" y="198" font-family="ui-sans-serif, system-ui, sans-serif" font-size="30" font-weight="800" fill="#0033e6">ZROUTE</text>
-  <text x="412" y="198" font-family="ui-sans-serif, system-ui, sans-serif" font-size="30" font-weight="800" fill="#0033e6">GHOSTEX</text>
+  <text x="496" y="198" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif" font-size="30" font-weight="800" fill="#0033e6">AI DEVKIT</text>
   <text x="692" y="198" font-family="ui-sans-serif, system-ui, sans-serif" font-size="30" font-weight="800" fill="#0033e6">MEMWAL</text>
   <text x="134" y="416" font-family="ui-sans-serif, system-ui, sans-serif" font-size="44" font-weight="800" fill="#fff6ea">COMMANDOSS LABS</text>
   <text x="692" y="412" font-family="ui-monospace, monospace" font-size="24" font-weight="700" fill="#0033e6">RUST + TS</text>
