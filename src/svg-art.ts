@@ -24,8 +24,15 @@ export const HARRI_PORTRAIT_SVG = `
   <path d="M196 352C214 366 244 366 262 350" stroke="var(--ink)" stroke-width="6" stroke-linecap="round"/>
   <path d="M190 404L186 456" stroke="var(--ink)" stroke-width="6.4" stroke-linecap="round"/>
   <path d="M272 404L276 456" stroke="var(--ink)" stroke-width="6.4" stroke-linecap="round"/>
-  <path d="M62 590C68 504 118 462 186 454C208 480 252 480 276 454C344 462 392 506 398 590" stroke="var(--ink)" stroke-width="6.4" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M156 462C176 502 282 502 302 462" stroke="var(--ink)" stroke-width="5.6" stroke-linecap="round"/>
+  <path d="M62 590C68 508 112 472 174 460" stroke="var(--ink)" stroke-width="6.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M288 460C348 472 392 508 398 590" stroke="var(--ink)" stroke-width="6.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M186 454C204 472 258 472 276 454" stroke="var(--ink)" stroke-width="5.6" stroke-linecap="round"/>
+  <rect x="214" y="470" width="34" height="108" rx="7" fill="var(--paper-2)" stroke="var(--ink)" stroke-width="5.2"/>
+  <circle cx="231" cy="496" r="5.6" fill="var(--paper)" stroke="var(--ink)" stroke-width="4.2"/>
+  <circle cx="231" cy="524" r="5.6" fill="var(--paper)" stroke="var(--ink)" stroke-width="4.2"/>
+  <circle cx="231" cy="552" r="5.6" fill="var(--paper)" stroke="var(--ink)" stroke-width="4.2"/>
+  <path d="M186 444L160 458L178 506L224 472C208 467 195 457 186 444Z" fill="var(--paper-2)" stroke="var(--ink)" stroke-width="5.6" stroke-linejoin="round"/>
+  <path d="M276 444L302 458L284 506L238 472C254 467 267 457 276 444Z" fill="var(--paper-2)" stroke="var(--ink)" stroke-width="5.6" stroke-linejoin="round"/>
 </svg>
 `
 

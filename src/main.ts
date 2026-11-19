@@ -273,7 +273,7 @@ function initScrollLine(): void {
     const raw: Array<{ x: number; y: number } | null> =
       w >= 820
         ? [
-            ptFromRect(portraitRect, 0.85, 0.84),
+            ptFromRect(portraitRect, 0.885, 0.84),
             leadRect
               ? { x: Math.max(24, leadRect.left - 34), y: leadRect.bottom + 24 }
               : null,
